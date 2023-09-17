@@ -1,3 +1,7 @@
+//Nombre del archivo: Taller 3. Funciones.c
+//Autor: Cesar Alejandro Velazquez Mercado
+//Fecha de creación: 16 de septiembre de 2023
+//Descripción: Este archivo me da el factorial de un nuemero.
 #include <stdio.h>
 
 void calcularfactorial(int num);
